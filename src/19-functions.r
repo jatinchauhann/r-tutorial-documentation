@@ -82,7 +82,7 @@ new.function(9,5)
 #Arguments to functions are evaluated lazily, which means so they are evaluated only when needed by the function body.
 
 # Create a function with arguments.
-new.function <- function(a, b) {
+gnew.function <- function(a, b) {
    print(a)
    print(b)
 }

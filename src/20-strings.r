@@ -129,7 +129,7 @@ print(result)
 #Syntax
 #substring(x,first,last)
 #Following is the description of the parameters used −
-#   x is the character vector input.
+#   cd x is the character vector input.
 #   first is the position of the first character to be extracted.
 #   last is the position of the last character to be extracted.
 
